@@ -18,8 +18,6 @@ This is a simple chat application built with Laravel and Vue.js. The application
 * Real-time messaging
 * User authentication
 * Emoji support
-* Message editing
-* Message deletion
 * User presence indicators
 
 ## Screenshots
